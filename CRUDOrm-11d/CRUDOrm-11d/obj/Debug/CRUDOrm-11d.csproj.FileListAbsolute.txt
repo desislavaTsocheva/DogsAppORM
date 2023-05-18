@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\bin\Debug\CRUDOrm-11d.exe.config
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\bin\Debug\CRUDOrm-11d.exe
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\bin\Debug\CRUDOrm-11d.pdb
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm-11d.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm-11d.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm-11d.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm-11d.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm-11d.exe
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm-11d.pdb
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm_11d.Migrations.FirstDogs.resources
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm-11d.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\CRUDOrm-11d\CRUDOrm-11d\obj\Debug\CRUDOrm_11d.View.Form1.resources
